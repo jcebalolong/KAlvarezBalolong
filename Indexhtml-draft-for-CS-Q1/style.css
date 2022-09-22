@@ -1,0 +1,88 @@
+html, body {;
+  height: 100%;
+  width: 100%;
+  background-color: #BCEAFE;
+}
+
+.TopBox {
+  Border: 5px outset darkblue;
+  Background-color: lightblue;
+}
+
+.Logo {
+  Border: 2px outset darkblue solid; 
+  Background-color: lightblue;
+}
+
+.WebTitle {
+  Border: 2px  outset darkblue;
+  Background-color: lightblue;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+  Text-align: Center;
+}
+
+.SearchBox {
+  Border: 5px outset darkblue; 
+  Background-color: lightblue;
+}
+
+.BodyBox {
+  Border: 5px outset darkblue;
+}
+
+.ArtStyle1 {
+  Border: 2px outset darkblue; 
+  Background-color: saddlebrown;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+}
+
+.ArtStyle2 {
+  Border: 2px outset darkblue; 
+  Background-color: #E7ea7e;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+}
+
+.ArtStyle3 {
+  Border: 2px outset darkblue; 
+  Background-color: #C1297f;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+}
+.ArtStyle4 {
+  Border: 2px outset darkblue; 
+  Background-color: #1E6F15;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+}
+
+.ArtStyle5 {
+  Border: 2px outset darkblue; 
+  Background-color: #B29ec9;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+}
+
+.WebsiteInfo {
+  Border: 2px outset darkblue;
+  Background-color: #BCEAFE;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+  text-indent: 20px;
+}
+
+.SideBar {
+  Border: 5px outset darkblue;
+  Background-color: #D3d5dc;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+  Text-align: Center;
+}
+
+.OtherInfo {
+  Border: 2px outset darkblue;
+  Background-color: #D3d5dc;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+  Text-align: Center;
+}
+
+.BottomBox {
+  Border: 5px outset darkblue;
+  Background-color: lightblue;
+  Padding: 10px;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+}
