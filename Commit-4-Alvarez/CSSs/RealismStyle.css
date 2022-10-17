@@ -1,0 +1,184 @@
+html, body {
+	width: 100%;
+  height: 160%;
+	background: #7d4c08 url("") no-repeat fixed center;
+	background-size: cover;
+	overflow: auto;
+	padding:  20px;
+  Color: #Ffe36c;
+}
+
+* {
+	box-sizing: border-box;
+  overflow: hidden;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+}
+
+a {
+  Text-decoration:none;
+  Color: #Ffe36c;
+}
+
+.Thumbnail {
+  width: 120px;
+  height: 120px;
+}
+
+.Icons {
+ width: 70px;
+ height: 70px;
+}
+
+
+#WebBody {
+	Width: 80%;
+	Height: 100%;
+    Margin: auto;
+	Border: 10px double black;
+	Padding: 10px;
+}
+
+#TopBox {
+	Width: 100%;
+	Height: 15%;
+  Padding: 25px 0px;
+}
+
+#Top {
+  Margin: auto;
+	Border: 5px solid #412600;
+  Background-color: #B3822c;
+	Padding: 20px;
+}
+
+#LogoBox {
+  float: left;
+	width: 25%;
+	height: 100%;
+}
+
+#Logo {
+  Margin-Right: 20px;
+}
+
+#WebNameBox {
+	float: left;
+	Width: 50%;
+	height: 100%;
+  Margin: auto;
+}
+
+#WebName {
+	Border: 2px solid #412600;
+	Background-color: #6f5819;
+	Text-align: Center;
+}
+
+#SearchBox {
+	float: right;
+	width: 25%;
+	height: 100%;
+}
+
+#SearchBar {
+  Margin-Left: 20px;
+	border: 2px solid #412600;
+	background-color: #6f5819;
+	padding-top: 0px;
+  Text-align: Center;
+}
+	
+#MainBodyBox {
+	Float: left;
+	Width: 80%;
+	Height: 70%;
+}
+
+#MainBody {
+	Height: 100%;
+	Margin-right: 20px;
+	Border: 5px solid #412600;
+  Background-color: #B3822c;
+	Padding: 20px;
+	
+}
+
+#MainBody h1 {
+  Margin: 0px;
+}
+
+#SideBarBox {
+	Float: Right;
+	Width: 20%;
+	Height: 70%;
+}
+
+#SideBar {
+	Height: 100%;
+	Margin-left: 20px;
+	Border: 5px solid #412600;
+  Background-color: #B3822c;
+	Padding: 20px;
+	Text-align: Center;
+  Overflow: auto;
+}
+
+#Nav {
+	Border-Bottom: 5px solid #412600;
+	Display:block;
+}
+
+#Nav h4 {
+  margin: 0px;
+}
+
+#Nav a:hover {
+  font-size: 1.2em;
+   color: #F1933B;
+}
+
+#BottomBox {
+  width: 100%;
+  height: 15%;
+  Padding: 10px 0px;
+}
+
+#Bottom {
+  Height: 100%;
+	Border: 5px solid #412600;
+  Background-color: #B3822c;
+	Padding: 20px;
+}
+
+#ShareWeb h4 {
+  Display: Inline-block;
+  Margin: 5px;
+  Border: 2px solid #412600;
+  Background-color: #6f5819;
+  Padding: 5px;
+}
+
+#ContactInfo h4 {
+  
+  Margin: 5px;
+  Border: 2px solid #412600;
+  Background-color: #6f5819;
+  Padding: 5px;
+}
+
+#Copyright {
+  Text-align: Center;
+}
+#Copyright h4 {
+  Display: Inline-block;
+  Margin: 5px;
+  Border: 2px solid #412600;
+  Background-color: #6f5819;
+  Padding: 2px;
+}
+
+
+
+#Copyright a:hover{
+  background-color: #412600;
+}
