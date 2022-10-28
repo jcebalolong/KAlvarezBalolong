@@ -1,0 +1,306 @@
+html, body {
+	width: 100%;
+  height: 160%;
+	background: #BCEAFE url("../images/ArtStyledBG.png") no-repeat fixed center;
+	background-size: cover;
+	overflow: auto;
+	padding:  20px;
+  Font-family: "Trebuchet MS",Tahoma, Verdana;
+}
+
+* {
+	box-sizing: border-box;
+  overflow: hidden;
+}
+
+a {
+  Text-decoration:none;
+  Color: black;
+}
+
+.Thumbnail {
+  width: 120px;
+  height: 120px;
+}
+
+.Icons {
+ width: 70px;
+ height: 70px;
+}
+
+
+#WebBody {
+	Width: 80%;
+	Height: 100%;
+    Margin: auto;
+	Border: 10px double black;
+	Padding: 10px;
+}
+
+#TopBox {
+	Width: 100%;
+	Height: 15%;
+  Padding: 25px 0px;
+}
+
+#Top {
+  Margin: auto;
+	Border: 5px solid #076587;
+  Background-color: #D8eef1;
+	Padding: 20px;
+}
+
+#LogoBox {
+  float: left;
+	width: 25%;
+	height: 100%;
+}
+
+#Logo {
+  Margin-Right: 20px;
+}
+
+#WebNameBox {
+	float: left;
+	Width: 50%;
+	height: 100%;
+  Margin: auto;
+}
+
+#WebName {
+	Border: 2px solid #076587;
+	Background-color: #1eaee2;
+	Text-align: Center;
+}
+
+#SearchBox {
+	float: right;
+	width: 25%;
+	height: 100%;
+}
+
+#SearchBar {
+  Margin-Left: 20px;
+	border: 2px solid #076587;
+	background-color: #1eaee2;
+	padding-top: 0px;
+  Text-align: Center;
+}
+	
+#MainBodyBox {
+	Float: left;
+	Width: 80%;
+	Height: 70%;
+}
+
+#MainBody {
+	Height: 100%;
+	Margin-right: 20px;
+	Border: 5px solid #076587;
+  Background-color: #D8eef1;
+	Padding: 20px;
+	
+}
+
+#MainBody h1 {
+  Margin: 0px;
+}
+
+#RealismArtBox {
+  Float: left;
+  Width: 50%;
+  Height: 25%;
+}
+
+#RealismArt {
+  Opacity: 0.8;
+  Margin: 10px;
+  Border: 5px solid #076587;
+  Background: #8B4513 url("../images/RealismArtBG.jpg") no-repeat center;
+	background-size: cover; 
+  Padding: 10px;
+  Text-align: Center;
+}
+
+#RealismArt:hover {
+  Opacity: 1.0;
+  Border: 10px outset #076587;
+  Color: #Ffe36c;
+}
+
+#SurrealismArtBox {
+  Float: left;
+  Width: 50%;
+  Height: 25%;
+}
+
+#SurrealismArt {
+  Opacity: 0.8;
+  Margin: 10px;
+  Border: 5px solid #076587;
+  Background: #E7ea7e url("../images/SurrealismArtBG.jpg") no-repeat center;
+  Padding: 10px;
+  Text-align: Center;
+}
+
+#SurrealismArt:hover {
+  Opacity: 1.0;
+  Border: 10px outset #076587;
+  Color: #54307e;
+}
+
+#PopArtBox {
+  Float: left;
+  Width: 50%;
+  Height: 25%;
+}
+
+#PopArt {
+  Opacity: 0.8;
+  Margin: 10px;
+  Border: 5px solid #076587;
+  Background-color: #C1297f;
+  Padding: 10px;
+  Text-align: Center;
+}
+
+#PopArt:hover {
+  Opacity: 1.0;
+  Border: 10px outset #076587;
+  Color: #e1d640;
+}
+
+#PixelArtBox {
+  Float: left;
+  Width: 50%;
+  Height: 25%;
+}
+
+#PixelArt {
+  Opacity: 0.8;
+  Margin: 10px;
+  Border: 5px solid #076587;
+  Background-color: #1E6F15;
+  Padding:10px;
+  Text-align: Center;
+}
+
+#PixelArt:hover {
+  Opacity: 1.0;
+  Border: 10px outset #076587;
+  Color: #4ad614;
+}
+
+#AsciiArtBox {
+  Float: left;
+  Width: 100%;
+  Height: 25%;
+}
+
+#AsciiArt {
+  Opacity: 0.8;
+  Width: 50%;
+  Margin: 10px auto;
+  Border: 5px solid #076587;
+  Background-color: #B29ec9;
+  Padding:10px;
+  Text-align: Center;
+}
+
+#AsciiArt:hover {
+  Opacity: 1.0;
+  Border: 10px outset #076587;
+  Color: #40575a;
+}
+
+#WebDescBox {
+  Float: left;
+  Width: 100%;
+  Height: 25%;
+  Overflow: auto;
+}
+
+#WebDesc {
+  Margin: 10px;
+  Border: 5px solid #076587;
+  Background-color: #1eaee2;
+  Padding: 10px;
+  Text-align: Left;
+  Text-indent: 20px;
+}
+
+#SideBarBox {
+	Float: Right;
+	Width: 20%;
+	Height: 70%;
+}
+
+#SideBar {
+	Height: 100%;
+	Margin-left: 20px;
+	Border: 5px solid #076587;
+  Background-color: #D8eef1;
+	Padding: 20px;
+	Text-align: Center;
+  Overflow: auto;
+}
+
+#Nav {
+	Border-Bottom: 5px solid #076587;
+	Display:block;
+}
+
+#Nav h4 {
+  margin: 0px;
+}
+
+#Nav a:hover, #References a:hover {
+  color: #0dc9b1;
+  font-size: 1.2em;
+}
+
+#BottomBox {
+  width: 100%;
+  height: 15%;
+  Padding: 10px 0px;
+}
+
+#Bottom {
+  Height: 100%;
+	Border: 5px solid #076587;
+  Background-color: #D8eef1;
+	Padding: 20px;
+}
+
+#ShareWeb h4 {
+  Display: Inline-block;
+  Margin: 5px;
+  Border: 2px solid #076587;
+  Background-color: #1eaee2;
+  Padding: 5px;
+}
+
+#ContactInfo h4 {
+  
+  Margin: 5px;
+  Border: 2px solid #076587;
+  Background-color: #1eaee2;
+  Padding: 5px;
+}
+
+#Copyright {
+  Text-align: Center;
+}
+#Copyright h4 {
+  Display: Inline-block;
+  Margin: 5px;
+  Border: 2px solid #076587;
+  Background-color: #1eaee2;
+  Padding: 2px;
+}
+
+
+
+#Copyright a:hover{
+  background-color: #076587;
+}
